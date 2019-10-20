@@ -3,10 +3,9 @@
 ## Syntax highlighting and auto-completion for Kivy/KivyMD `.kv` files in PyCharm/Intellij IDEA
 ![katalib_logo](https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.screen.2b.png)
 
-The file is based on the one that is located at the
-["Setting Up Kivy with various popular IDE's"](https://github.com/kivy/kivy/wiki/Setting-Up-Kivy-with-various-popular-IDE's)
-page of [Kivy@GitHub](https://github.com/kivy/kivy).  
-It is **updated** and has also support for the **KivyMD** modules and properties.
+This settings file is based on the one that is located at the
+["Setting Up Kivy with various popular IDE's"](https://github.com/kivy/kivy/wiki/Setting-Up-Kivy-with-various-popular-IDE's) page of [Kivy@GitHub](https://github.com/kivy/kivy).  
+It's **updated** and has also support for the **KivyMD** modules and properties.
 ___
 There are 4 categories of keywords:
 * **Modules** (e.g. `FloatLayout`, `Button`, `Image` ..)
