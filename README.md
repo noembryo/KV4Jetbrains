@@ -18,7 +18,7 @@ The colors of these categories can be changed in
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.colors.png">
-    <img src="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.colors.png" height="250"></a>
+    <img src="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.colors.png" height="350"></a>
 </p>
 
 You can Add/Remove keywords by going to the
@@ -26,9 +26,9 @@ You can Add/Remove keywords by going to the
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.edit.png">
-    <img src="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.edit.png" height="250"></a>
+    <img src="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.edit.png" height="300"></a>
   <a href="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.keywords.png">
-    <img src="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.keywords.png" height="250"></a>
+    <img src="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.keywords.png" height="300"></a>
 </p>
 
 ___
