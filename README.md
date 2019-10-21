@@ -31,6 +31,8 @@ You can Add/Remove keywords by going to the
     <img src="https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.keywords.png" height="300"></a>
 </p>
 
+_Also, feel free to inform me about missing keywords so that I can update the settings file._
+
 ___
 ## Installation instructions for PyCharm/Intellij IDEA:
 
