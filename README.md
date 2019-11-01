@@ -1,7 +1,7 @@
 # KV4Jetbrains
 
 ## Syntax highlighting and auto-completion for Kivy/KivyMD `.kv` files in PyCharm/Intellij IDEA
-![katalib_logo](https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.screen.2b.png)
+![kv_code](https://raw.githubusercontent.com/noembryo/KV4Jetbrains/master/img/kv.screen.2b.png)
 
 This settings file is based on the one that is located at the
 ["Setting Up Kivy with various popular IDE's"](https://github.com/kivy/kivy/wiki/Setting-Up-Kivy-with-various-popular-IDE's) page of [Kivy@GitHub](https://github.com/kivy/kivy).  
@@ -38,7 +38,23 @@ ___
 
 * Click `File`>`Export Settings` and save a backup of your current settings
 (in case something goes wrong)
-* Download the `JetBrains.kvMD.completion.jar` from the [releases](https://github.com/noembryo/KV4Jetbrains/releases)
+* Download the `JetBrains.kvMD.completion.v0.x.jar` from the [releases](https://github.com/noembryo/KV4Jetbrains/releases)
 * Click `File`>`Import Settings`
 * Select the `.jar` file and a dialog will open.
 * Click OK and restart PyCharm ;o)
+___
+## Semi-Language Injection to String Literals
+_Added in v0.3_
+
+PyCharm, IDEA (and all the JetBrains IDE's) support "Language Injection", a way to have
+syntax highlighting inside the Python's string literals.  
+Unfortunately, only the supported languages are supported (!)
+
+There is a workaround (better than nothing, but not by much), to have something like this:
+
+![kv_code](https://user-images.githubusercontent.com/24675403/67905219-4f350480-fb79-11e9-970d-09a5fb91074a.png)
+
+You can read about it [here](https://github.com/noembryo/KV4Jetbrains/issues/2#issuecomment-548008947).
+
+To use it, just select _all_ the `kv` code in the string, press `Ctrl+Alt+T` ("Surround
+With...") and select the `KV. Surround for kv injection` entry.
