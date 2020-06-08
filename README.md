@@ -36,10 +36,10 @@ _Also, feel free to inform me about missing keywords so that I can update the se
 ___
 ## Installation instructions for PyCharm/Intellij IDEA:
 
-* Click `File`>`Export Settings` and save a backup of your current settings
+* Click `File`> \[`Manage IDE Settings`\] >`Export Settings` and save a backup of your current settings
 (in case something goes wrong)
 * Download the `JetBrains.kvMD.completion.v0.x.jar` from the [releases](https://github.com/noembryo/KV4Jetbrains/releases)
-* Click `File`>`Import Settings`
+* Click `File`> \[`Manage IDE Settings`\] >`Import Settings`
 * Select the `.jar` file and a dialog will open.
 * Click OK and restart PyCharm ;o)
 ___
